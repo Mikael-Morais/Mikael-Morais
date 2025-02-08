@@ -80,7 +80,7 @@ A busca constante por novas fórmulas e a curiosidade incessante são caracterí
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      style="padding-right: 5px;" 
+      style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mikael-Morais&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
